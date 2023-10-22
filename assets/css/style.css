@@ -563,7 +563,10 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio {
-  background-color: #040404;
+  background-color: #fdfff5;
+}
+.portfolio-title h2  {
+  color: #040404;
 }
 .portfolio .portfolio-item {
   margin-bottom: 30px;
@@ -787,7 +790,10 @@ section {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials {
-  background-color: #040404;
+  background-color: #fdfff5;
+}
+.testimonial-title {
+  color: #040404;
 }
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
@@ -810,12 +816,12 @@ section {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: #fff;
+  color: #040404;
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: #040404;
   margin: 0;
 }
 
@@ -842,7 +848,7 @@ section {
   font-style: italic;
   margin: 0 15px 15px 15px;
   padding: 20px;
-  background: #0404;
+  background: #202020;
   position: relative;
   margin-bottom: 35px;
   border-radius: 6px;
